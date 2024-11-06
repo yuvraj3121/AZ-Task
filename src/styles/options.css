@@ -1,0 +1,84 @@
+.options-div {
+  width: 267px;
+  height: 566px;
+  position: absolute;
+  top: 44px;
+  left: 55.5px;
+}
+
+.odiv-top {
+  height: 40px;
+  width: 251px;
+  margin-left: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  gap: 24px;
+  /* background: rebeccapurple; */
+  font-size: 27.7px;
+  font-weight: bolder;
+}
+
+.odiv-top p {
+  color: rgba(23, 43, 77, 1);
+}
+
+.odiv-toprig {
+  width: 140px;
+  height: 63px;
+  position: absolute;
+  top: 0px;
+  left: 1646px;
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+
+.odiv-toprig .bellicon {
+  height: 25.6px;
+  width: 22.4px;
+  background: rgba(231, 248, 255, 1);
+  color: rgba(23, 43, 77, 1);
+  border-radius: 6px;
+  padding: 12px 15px;
+  cursor: pointer;
+}
+
+.odiv-toprig .profile {
+  height: 63px;
+  width: 63px;
+  background: rgba(217, 217, 217, 1);
+  border-radius: 32px;
+  cursor: pointer;
+}
+
+.options-div ul {
+  margin-top: 64px;
+  display: flex;
+  gap: 22px;
+  flex-direction: column;
+  /* margin-left: 5px; */
+}
+
+.options-div ul li {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  margin: 2px;
+  cursor: pointer;
+  width: 267px;
+  height: 40px;
+  padding: 12px;
+  gap: 20px;
+  font-size: 24px;
+}
+
+.options-div ul li:hover {
+  background: rgba(214, 244, 255, 1);
+  border-radius: 8px;
+  color: rgba(23, 43, 77, 1);
+}
+
+.ologo {
+  font-size: 32px;
+}

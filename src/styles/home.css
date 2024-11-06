@@ -1,0 +1,10 @@
+.home-div {
+  /* background: yellowgreen; */
+  width: 1456px;
+  height: 1527px;
+  border: 1px solid rgba(164, 230, 255, 1);
+  border-radius: 16px;
+  position: absolute;
+  top: 161px;
+  left: 400px;
+}
